@@ -1,4 +1,4 @@
-\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage[top=1cm, bottom=1cm, left=2.5cm, right=2.5cm]{geometry}
 \usepackage{tgpagella}
 \ifxetex
   \usepackage{xeCJK}
@@ -6,10 +6,11 @@
   %\setmainfont[Mapping=tex-text]{TeX Gyre Pagella}
 \fi
 
-\usepackage{titlesec}
+\usepackage[compact]{titlesec}
+%\usepackage{titlesec}
 \titleformat{\section}{\huge\bfseries}{\thesection}{1em}{}
 \titlespacing{\section}{0pt}{-2em}{1em}
-\titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{1em}{}
+\titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{-1em}{}
 
 %\usepackage{multicol}
 \pagestyle{empty}
@@ -28,3 +29,6 @@
   {\par\vss\egroup\ht\zerobox=0pt \wd\zerobox=0pt \dp\zerobox=0pt
    \box\zerobox}
 
+% tighter formatting to fit more content on a single page
+%\usepackage{setspace}
+%\linkcolor MidnightBlue
