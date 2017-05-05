@@ -10,6 +10,15 @@ Big data, automation, security, embedded/IoT, and open source
 
 Work Experience
 -------------
+*   **Endless Computers** (San Francisco, CA)
+    
+    *Distributed Systems Architect*, Oct 2016 - present
+
+    - Migrated Endless OS build infrastructure to AWS using Ansible
+    - Created REST interface for in-house API using Python Flask
+    - Architected a cloud-based data pipeline for metrics analysis (HDFS, YARN, Hive, Spark, Zeppelin)
+    - Assisted with analytics queries, data visualization, and generating reports for business stakeholders
+
 *   **Hortonworks, Inc.** (Santa Clara, CA)
 
     *Senior Product Specialist - Tools*, Jan 2016 - Aug 2016
