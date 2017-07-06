@@ -78,6 +78,14 @@ Certifications
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
 
 
+Personal Projects
+-------------------
+* **Kubernetes home lab** - study containerization, host internal home services (monitoring/logging/dashboard, UniFi wifi controller, git, file server, backups, build environments)
+
+* **OPNsense gateway appliance** - exercise networking skills, provide home network security
+
+* **Sandstorm.io** - self-hosted alternative to Google Apps, Evernote, Github, etc
+
 [4]: http://hortonworks.com/smart-sense "SmartSense"
 [5]: https://hortonworks.com "Hortonworks"
 [6]: https://modea.com "Modea"
