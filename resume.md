@@ -6,7 +6,7 @@ Alexander Miller
 
 Interests
 --------------
-Big data, automation, security, embedded/IoT, and open source
+Automation, big data, blockchain, embedded/IoT, open source, and security
 
 Work Experience
 -------------
@@ -76,6 +76,7 @@ Certifications
 ----------------
   - **Apache Hadoop Administrator 2.x** - Hortonworks, license 008-00176 - Feb 2015
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
+
 
 [4]: http://hortonworks.com/smart-sense "SmartSense"
 [5]: https://hortonworks.com "Hortonworks"
