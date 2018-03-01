@@ -4,15 +4,34 @@ Alexander Miller
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
 
+Principals
+--------------
+- Open source
+- Automation
+- Documentation
+- Security
+
 Interests
 --------------
-Automation, big data, blockchain, embedded/IoT, open source, and security
+- Datastores
+- Containerization
+- Embedded/IoT
 
 Work Experience
 -------------
+*   **Distributed Systems Consultant** (Denver, CO)
+
+    *Site Reliability Engineer*, Aug 2017 - present
+
+    - Configuration management, cloud orchestration
+    - Monitoring: centralized logging, alerts, visualization
+    - Continuous integration
+    - Server hardening
+    - Refactoring legacy code 
+
 *   **Endless Computers** (San Francisco, CA)
     
-    *Distributed Systems Architect*, Oct 2016 - present
+    *Distributed Systems Architect*, Oct 2016 - Aug 2017
 
     - Migrated Endless OS build infrastructure to AWS using Ansible
     - Created REST interface for in-house API using Python Flask
