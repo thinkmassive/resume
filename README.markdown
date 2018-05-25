@@ -25,9 +25,9 @@ The Markdown flavor supported is
     If you run into problems while running `make`, you might need to run the following
     commands first:
 
-        sudo tlmgr update --self
+        sudo tlmgr --verify-repo=all update --self
 
-        sudo tlmgr install tex-gyre titlesec
+        sudo tlmgr --verify-repo=all install tex-gyre titlesec
 
 ## Usage
 
