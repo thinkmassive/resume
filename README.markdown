@@ -17,17 +17,18 @@ The Markdown flavor supported is
     On __Ubuntu__ you can get this by doing:
 
     ```
-    sudo apt-get install texlive texlive-latex-extra tex-gyre lmodern
+    $ sudo apt-get install texlive texlive-latex-extra tex-gyre lmodern
     ```
 
-    On __macOS__, download and install [BasicTeX](http://tug.org/cgi-bin/mactex-download/BasicTeX.pkg).
+    On __macOS__, you could install [BasicTeX](http://tug.org/cgi-bin/mactex-download/BasicTeX.pkg).
 
     If you run into problems while running `make`, you might need to run the following
     commands first:
 
-        sudo tlmgr --verify-repo=all update --self
-
-        sudo tlmgr --verify-repo=all install tex-gyre titlesec
+    ```
+    $ sudo tlmgr --verify-repo=all update --self
+    $ sudo tlmgr --verify-repo=all install tex-gyre titlesec
+    ```
 
 ## Usage
 
