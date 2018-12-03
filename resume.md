@@ -19,9 +19,14 @@ Interests
 
 Work Experience
 -------------
-*   **Independent Consultant** (Denver, CO), Mar 2018 - present
+*   **CryptoKube.io** (Denver, CO)
 
-    - 
+    *Independent Consultant*, Mar 2018 - present
+
+    - Architected and built infrastructure for an Ethereum gaming startup
+    - Relased open source Ansible & Terraform code for blockchain infrastructure
+    - Presented Ethereum infrastructure workshop at DevCon IV in Prague, Czech Republic
+    - Currently working on Kubernetes configs for Bitcoin, Ethereum, and IPFS
 
 *   **ShapeShift AG** (Denver, CO)
 
