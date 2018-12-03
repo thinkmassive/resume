@@ -4,7 +4,7 @@ Alexander Miller
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
 
-Principals
+Principles
 --------------
 - Open source
 - Automation
@@ -19,15 +19,18 @@ Interests
 
 Work Experience
 -------------
-*   **Distributed Systems Consultant** (Denver, CO)
+*   **Independent Consultant** (Denver, CO), Mar 2018 - present
 
-    *Site Reliability Engineer*, Aug 2017 - present
+    - 
 
-    - Configuration management, cloud orchestration
-    - Monitoring: centralized logging, alerts, visualization
-    - Continuous integration
-    - Server hardening
-    - Refactoring legacy code 
+*   **ShapeShift AG** (Denver, CO)
+
+    *DevOps Engineer*, Aug 2017 - Apr 2018
+
+    - Managed cloud infrastructure for a high-security 24/7 cryptocurrency exchange, processing &gt;$30MM/day during the peak in Dec 2017
+    - Operated internal backend & tooling, public frontend & API, and blockchain daemons on >50 networks/chains
+    - Built and operated automation tooling for cloud infrastructure, server configuration, and centralized logging, monitoring, alerts, and visualization
+    - Performed assorted improvements including server hardening, legacy code refactoring, and documenting architectures that evolved organically in a fast-paced startup environment
 
 *   **Endless Computers** (San Francisco, CA)
     
