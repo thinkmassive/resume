@@ -1,33 +1,33 @@
 Alexander Miller
-==============
+================
 
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
 
-Principals
---------------
-- Open source
-- Automation
-- Documentation
-- Security
+Summary
+-------
+Distributed systems engineer with twelve years of experience in startup, enterprise, and SMB environments. Proud user and developer of open source software. Enthusiastic about contributing to improvements in self-sovereignty, with particular interest in projects that involve peer-to-peer networking or embedded systems.
 
-Interests
---------------
-- Datastores
-- Containerization
-- Embedded/IoT
 
 Work Experience
--------------
-*   **Distributed Systems Consultant** (Denver, CO)
+---------------
+*   **CryptoKube.io** (Denver, CO)
 
-    *Site Reliability Engineer*, Aug 2017 - present
+    *Independent Consultant*, Mar 2018 - present
 
-    - Configuration management, cloud orchestration
-    - Monitoring: centralized logging, alerts, visualization
-    - Continuous integration
-    - Server hardening
-    - Refactoring legacy code 
+    - Architected and built infrastructure for an Ethereum gaming startup
+    - Relased open source Ansible & Terraform code for blockchain infrastructure
+    - Presented Ethereum infrastructure workshop at DevCon IV in Prague, Czech Republic
+    - Currently working on Kubernetes configs for Bitcoin, Ethereum, and IPFS
+
+*   **ShapeShift AG** (Denver, CO)
+
+    *DevOps Engineer*, Aug 2017 - Apr 2018
+
+    - Managed cloud infrastructure for a high-security 24/7 cryptocurrency exchange, processing &gt;$30MM/day during the peak in Dec 2017
+    - Operated internal backend & tooling, public frontend & API, and blockchain daemons on >50 networks/chains
+    - Built and operated automation tooling for cloud infrastructure, server configuration, and centralized logging, monitoring, alerts, and visualization
+    - Performed assorted improvements including server hardening, legacy code refactoring, and documenting architectures that evolved organically in a fast-paced startup environment
 
 *   **Endless Computers** (San Francisco, CA)
     
@@ -48,7 +48,7 @@ Work Experience
     - Authored training exercise to certify support engineers on competence of the customer-facing SmartSense tool and use of the backend service (highest participation rate of all exercises)
     - Analyzed support case data with a Zeppelin notebook to identify areas of greatest concern
 
-*   **Hortonworks, Inc.** (Santa Clara, CA)
+*   **Hortonworks, Inc.** (Durham, NC)
 
     *Platform Support Engineer*, Sep 2014 - Dec 2015
 
@@ -86,13 +86,14 @@ Work Experience
 
 
 Education
------------
+---------
 *   **Virginia Tech** (Blacksburg, VA)
     *B.S. in Computer Engineering*, 2013
 
 
 Certifications
-----------------
+--------------
+  - **Certified Bitcoin Professional** - Crypto Currency Certification Consortium, 73073f - Mar 2018
   - **Apache Hadoop Administrator 2.x** - Hortonworks, license 008-00176 - Feb 2015
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
 
