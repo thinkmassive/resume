@@ -56,7 +56,7 @@ Work Experience
     - Authored training exercise to certify support engineers on competence of the customer-facing SmartSense tool and use of the backend service (highest participation rate of all exercises)
     - Analyzed support case data with a Zeppelin notebook to identify areas of greatest concern
 
-*   **Hortonworks, Inc.** (Santa Clara, CA)
+*   **Hortonworks, Inc.** (Durham, NC)
 
     *Platform Support Engineer*, Sep 2014 - Dec 2015
 
