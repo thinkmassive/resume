@@ -4,18 +4,10 @@ Alexander Miller
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
 
-Principles
-----------
-- Open source
-- Automation
-- Documentation
-- Security
+Summary
+-------
+Distributed systems engineer with twelve years of experience in startup, enterprise, and SMB environments. Proud user and developer of open source software. Enthusiastic about contributing to improvements in self-sovereignty, with particular interest in projects that involve peer-to-peer networking or embedded systems.
 
-Interests
----------
-- Peer-to-peer systems
-- Containerization
-- Embedded/IoT
 
 Work Experience
 ---------------
