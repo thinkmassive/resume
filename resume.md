@@ -1,24 +1,24 @@
 Alexander Miller
-==============
+================
 
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
 
 Principles
---------------
+----------
 - Open source
 - Automation
 - Documentation
 - Security
 
 Interests
---------------
-- Datastores
+---------
+- Peer-to-peer systems
 - Containerization
 - Embedded/IoT
 
 Work Experience
--------------
+---------------
 *   **CryptoKube.io** (Denver, CO)
 
     *Independent Consultant*, Mar 2018 - present
@@ -94,13 +94,13 @@ Work Experience
 
 
 Education
------------
+---------
 *   **Virginia Tech** (Blacksburg, VA)
     *B.S. in Computer Engineering*, 2013
 
 
 Certifications
-----------------
+--------------
   - **Apache Hadoop Administrator 2.x** - Hortonworks, license 008-00176 - Feb 2015
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
 
