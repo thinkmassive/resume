@@ -101,6 +101,7 @@ Education
 
 Certifications
 --------------
+  - **Certified Bitcoin Professional** - Crypto Currency Certification Consortium, 73073f - Mar 2018
   - **Apache Hadoop Administrator 2.x** - Hortonworks, license 008-00176 - Feb 2015
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
 
