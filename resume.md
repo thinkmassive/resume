@@ -3,11 +3,14 @@ Alexander Miller
 
 <alex@thinkmassive.org>
 <https://thinkmassive.org>
+<https://www.cryptokube.io>
 
 Summary
 -------
-Distributed systems engineer with twelve years of experience in startup, enterprise, and SMB environments. Proud user and developer of open source software. Enthusiastic about contributing to improvements in self-sovereignty, with particular interest in projects that involve peer-to-peer networking or embedded systems.
 
+Distributed Systems Engineer with 12 years of experience in startup, enterprise, and SMB environments. Seeking allies on the mission to spread self sovereignty through Free & Open-Source Software and Peer-to-Peer networking. Privacy for individuals, transparency for institutions.
+
+&nbsp;
 
 Work Experience
 ---------------
@@ -15,17 +18,17 @@ Work Experience
 
     *Independent Consultant*, Mar 2018 - present
 
-    - Architected and built infrastructure for an Ethereum gaming startup
-    - Relased open source Ansible & Terraform code for blockchain infrastructure
-    - Presented Ethereum infrastructure workshop at DevCon IV in Prague, Czech Republic
+    - Architected and built infrastructure for an Ethereum gaming startup (stealth mode)
+    - Released open source Ansible & Terraform code for blockchain infrastructure
+    - Presented Ethereum infrastructure workshop to ~250 attendees at DevCon IV in Prague
     - Currently working on Kubernetes configs for Bitcoin, Ethereum, and IPFS
 
 *   **ShapeShift AG** (Denver, CO)
 
     *DevOps Engineer*, Aug 2017 - Apr 2018
 
-    - Managed cloud infrastructure for a high-security 24/7 cryptocurrency exchange, processing &gt;$30MM/day during the peak in Dec 2017
-    - Operated internal backend & tooling, public frontend & API, and blockchain daemons on >50 networks/chains
+    - Managed cloud infrastructure for a high-security, 24/7 cryptocurrency exchange that processed &gt;$30MM/day during the peak in Dec 2017
+    - Operated public frontend+API, internal backend+tooling, &gt;50 blockchain daemons networks/chains
     - Built and operated automation tooling for cloud infrastructure, server configuration, and centralized logging, monitoring, alerts, and visualization
     - Performed assorted improvements including server hardening, legacy code refactoring, and documenting architectures that evolved organically in a fast-paced startup environment
 
@@ -33,12 +36,12 @@ Work Experience
     
     *Distributed Systems Architect*, Oct 2016 - Aug 2017
 
-    - Migrated Endless OS build infrastructure to AWS using Ansible
+    - Migrated Endless OS build infrastructure from VMs to AWS using Ansible
     - Created REST interface for in-house API using Python Flask
     - Architected a cloud-based data pipeline for metrics analysis (HDFS, YARN, Hive, Spark, Zeppelin)
     - Assisted with analytics queries, data visualization, and generating reports for business stakeholders
 
-*   **Hortonworks, Inc.** (Santa Clara, CA)
+*   **Hortonworks, Inc.** (Santa Clara, CA & Durham, NC)
 
     *Senior Product Specialist - Tools*, Jan 2016 - Aug 2016
 
@@ -48,8 +51,6 @@ Work Experience
     - Authored training exercise to certify support engineers on competence of the customer-facing SmartSense tool and use of the backend service (highest participation rate of all exercises)
     - Analyzed support case data with a Zeppelin notebook to identify areas of greatest concern
 
-*   **Hortonworks, Inc.** (Durham, NC)
-
     *Platform Support Engineer*, Sep 2014 - Dec 2015
 
     - Supported enterprise customers for diagnosing, reproducing, and fixing advanced components of the Hortonworks Data Platform
@@ -58,18 +59,18 @@ Work Experience
     - Created Salesforce dashboard, which was opened for use by entire Support organization
     - Subject Matter Expert for: AppDev (Storm, Kafka, Pig, Hive), Security (Knox, Ranger, Kerberos, LDAP, SSL), and Hadoop (HDFS, YARN, MapReduce, Zookeeper)
 
+&nbsp;
+
 *   **Modea** (Blacskburg, VA)
 
     *DevOps Engineer*, 2013 to 2014
 
-    - Architected, built, and maintained hybrid cloud infrastructure (AWS + baremetal) for SaaS platform
+    - Architected, built, and maintained hybrid cloud infrastructure (AWS + baremetal) for a SaaS platform
     - Co-developed mobile device virtualization backend
     - Researched Android platform & internals to optimize device images
     - Created diagrams & documentation for both technical reference and marketing purposes
     - Ansible, Jenkins, Node.js, Mocha, AWS (EC2, S3, CF, ELB, IAM), New Relic, Android SDK, Qemu
  
-*   **Modea** (Blacskburg, VA)
-
     *Network Operations Manager*, 2007 to 2013
 
     - Scaled IT operations from 12 inital employees to support >100 employees (vSphere, SAN, Cisco)
@@ -84,15 +85,11 @@ Work Experience
     - Performed independent IT services and consulting for small enterprises
     - Infrastructure improvement plan, P2V server consolidation, backup system repair & upgrades
 
+&nbsp;
 
-Education
----------
-*   **Virginia Tech** (Blacksburg, VA)
-    *B.S. in Computer Engineering*, 2013
-
-
-Certifications
---------------
+Education & Certifications
+--------------------------
+  - **Virginia Tech** (Blacksburg, VA) *B.S. in Computer Engineering*
   - **Certified Bitcoin Professional** - Crypto Currency Certification Consortium, 73073f - Mar 2018
   - **Apache Hadoop Administrator 2.x** - Hortonworks, license 008-00176 - Feb 2015
   - **Apache Hadoop 2.0 Java Developer** - Hortonworks, license 006-00136 - Nov 2014
